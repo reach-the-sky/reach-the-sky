@@ -1,5 +1,9 @@
-### Hi there 👋
+### Sky code 🌥
 
+Reach far into the sky like a rocket.
+
+Reach me out:
+[LinkedIn 💼](https://www.linkedin.com/in/kotni-krishna-chaitanya/)
 <!--
 **reach-the-sky/reach-the-sky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
