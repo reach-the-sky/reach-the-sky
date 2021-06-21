@@ -2,7 +2,7 @@
 
 Reach far into the sky like a rocket.
 
-My website: [reach-the-sky](https://www.reach-the-sky.github.io)
+My website: [reach-the-sky 🌱](https://reach-the-sky.github.io/)
 
 Reach me out:
 [LinkedIn 💼](https://www.linkedin.com/in/kotni-krishna-chaitanya/)
