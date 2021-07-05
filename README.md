@@ -2,7 +2,7 @@
 
 Reach far into the sky like a rocket.
 
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=reach-the-sky.reach-the-sky) [![GitHub followers](https://img.shields.io/github/followers/reach-the-sky.svg?style=social&label=Follow)](https://github.com/reach-the-sky?tab=followers)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=reach-the-sky.reach-the-sky) [![GitHub followers](https://img.shields.io/github/followers/reach-the-sky.svg?style=social&label=Follow)](https://github.com/login?return_to=%2Freach-the-sky)
 
 ### About Me: <br/> 
 I am a **Computer Science** student from **BML Munjal University**, I love to learn new technologies, enjoy to learn things from bottom up. If you wanna catch up drop me a mail, let's meet over a Milk shake.
