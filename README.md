@@ -2,12 +2,21 @@
 
 Reach far into the sky like a rocket.
 
-My: <br/> 
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=reach-the-sky.reach-the-sky) [![GitHub followers](https://img.shields.io/github/followers/reach-the-sky.svg?style=social&label=Follow)](https://github.com/reach-the-sky?tab=followers)
+
+### About Me: <br/> 
+I am a **Computer Science** student from **BML Munjal University**, I love to learn new technologies, enjoy to learn things from bottom up. If you wanna catch up drop me a mail, let's meet over a Milk shake.
+
 &nbsp; 👑 Website: [reach-the-sky 🌱](https://reach-the-sky.github.io/) <br/>
 &nbsp;🔖 Blog: [medium](https://krishnakotni.medium.com)
 
-Reach me out:
-[LinkedIn 💼](https://www.linkedin.com/in/kotni-krishna-chaitanya/)
+
+### 📫 How to reach out:
+<!-- ![[LinkedIn 💼](https://www.linkedin.com/in/kotni-krishna-chaitanya/) -->
+<a href="https://www.linkedin.com/in/kotni-krishna-chaitanya/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+
+
 <!--
 **reach-the-sky/reach-the-sky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
