@@ -7,8 +7,8 @@ Reach far into the sky like a rocket.
 ### About Me: <br/> 
 I am a **Computer Science** student from **BML Munjal University**, I love to learn new technologies, enjoy to learn things from bottom up. If you wanna catch up drop me a mail, let's meet over a Milk shake.
 
-&nbsp; 👑 Website: [reach-the-sky 🌱](https://reach-the-sky.github.io/) <br/>
-&nbsp;🔖 Blog: [medium](https://krishnakotni.medium.com)
+#### 👑 Website: [reach-the-sky 🌱](https://reach-the-sky.github.io/) <br/>
+#### 🔖 Blog: [medium](https://krishnakotni.medium.com)
 
 
 ### 📫 How to reach out:
