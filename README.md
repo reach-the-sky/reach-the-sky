@@ -9,7 +9,7 @@ I am a **Computer Science** student from **BML Munjal University**, I love to le
 
 #### 👑 Website: [reach-the-sky 🌱](https://reach-the-sky.github.io/) <br/>
 #### 🔖 Blog: [medium](https://krishnakotni.medium.com)
-
+#### ⛄️ Second Github Profile: [github](https://github.com/KrishnaBmu)
 
 ### 📫 How to reach out:
 <!-- ![[LinkedIn 💼](https://www.linkedin.com/in/kotni-krishna-chaitanya/) -->
